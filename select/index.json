@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "biscuit",
+  "base_artist": "小林私",
+  "createdAt": "2025-12-20T03:30:46.747130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rubber Biscuit - Live Version",
+      "artist": "The Blues Brothers",
+      "has_synced": true,
+      "path": "select/01_Rubber_Biscuit_-_Live_Version_The_Blues_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Biscuit",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/02_Blue_Biscuit_Yello.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Biscuit",
+      "artist": "Portishead",
+      "has_synced": true,
+      "path": "select/03_Biscuit_Portishead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Biscuit",
+      "artist": "Portishead",
+      "has_synced": true,
+      "path": "select/04_Biscuit_Portishead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Lullaby - Pojo Dojo's Broken Biscuit Mix",
+      "artist": "Deep Forest",
+      "has_synced": false,
+      "path": "select/05_Sweet_Lullaby_-_Pojo_Dojo's_Broken_Biscuit_Mix_Deep_Forest.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Lullaby (Pojo Dojos Broken Biscuit Mix)",
+      "artist": "Deep Forest",
+      "has_synced": false,
+      "path": "select/06_Sweet_Lullaby_(Pojo_Dojos_Broken_Biscuit_Mix)_Deep_Forest.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Biscuit Town",
+      "artist": "King Krule",
+      "has_synced": false,
+      "path": "select/07_Biscuit_Town_King_Krule.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Biscuit",
+      "artist": "Ivy Levan",
+      "has_synced": false,
+      "path": "select/08_Biscuit_Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Biscuit - Dave Audé Remix",
+      "artist": "Ivy Levan",
+      "has_synced": false,
+      "path": "select/09_Biscuit_-_Dave_Audé_Remix_Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Biscuit - Michael Teixeira Remix",
+      "artist": "Ivy Levan",
+      "has_synced": false,
+      "path": "select/10_Biscuit_-_Michael_Teixeira_Remix_Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Biscuit - Top $helf Remix",
+      "artist": "Ivy Levan",
+      "has_synced": false,
+      "path": "select/11_Biscuit_-_Top_$helf_Remix_Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Biscuit - Wayne & Woods Remix",
+      "artist": "Ivy Levan",
+      "has_synced": false,
+      "path": "select/12_Biscuit_-_Wayne_&_Woods_Remix_Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Biscuit",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/13_Broken_Biscuit_Sia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Biscuit Head",
+      "artist": "Spin Doctors",
+      "has_synced": false,
+      "path": "select/14_Biscuit_Head_Spin_Doctors.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ball and Biscuit",
+      "artist": "The White Stripes",
+      "has_synced": false,
+      "path": "select/15_Ball_and_Biscuit_The_White_Stripes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rubber Biscuit",
+      "artist": "Blues Brothers",
+      "has_synced": true,
+      "path": "select/16_Rubber_Biscuit_Blues_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "biscuit",
+      "artist": "小林私",
+      "has_synced": false,
+      "path": "select/pl_01_biscuit_小林私.txt"
+    }
+  ]
+}
